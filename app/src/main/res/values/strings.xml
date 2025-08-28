@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Recipe Resizer App</string>
+    <string name="search_hint">Enter recipe name</string>
+    <string name="search_button">Search</string>
+    <string name="serving_size">Number of Persons</string>
+    <string name="apply">Apply</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="no_recipe_found">No recipe found. Try another search.</string>
+    <string name="error_message">Something went wrong. Please try again.</string>
+    <string name="loading">Loading…</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    
+    <!-- Categories -->
+    <string name="categories">Categories</string>
+    <string name="popular_recipes">Popular Recipes</string>
+    <string name="category_all">All</string>
+    <string name="category_vegetarian">Vegetarian</string>
+    <string name="category_non_vegetarian">Non-Vegetarian</string>
+    <string name="category_vegan">Vegan</string>
+    <string name="category_dessert">Dessert</string>
+    <string name="category_seafood">Seafood</string>
+    <string name="category_breakfast">Breakfast</string>
+    <string name="category_italian">Italian</string>
+    <string name="category_indian">Indian</string>
+    <string name="category_chinese">Chinese</string>
+    <string name="category_mexican">Mexican</string>
+    <string name="category_thai">Thai</string>
+    
+    <!-- Search suggestions -->
+    <string name="search_suggestions">Popular searches</string>
+    <string name="try_searching">Try searching for:</string>
+    
+    <!-- Popular recipe suggestions -->
+    <string-array name="popular_recipe_suggestions">
+        <item>Pasta Carbonara</item>
+        <item>Chicken Curry</item>
+        <item>Chocolate Cake</item>
+        <item>Vegetable Stir Fry</item>
+        <item>Beef Tacos</item>
+        <item>Pancakes</item>
+        <item>Pizza Margherita</item>
+        <item>Butter Chicken</item>
+    </string-array>
+</resources>

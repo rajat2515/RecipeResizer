@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary colors - Professional deep blue palette -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_light">#5E92F3</color>
+    <color name="primary_dark">#003C8F</color>
+    
+    <!-- Accent colors - Complementary amber palette -->
+    <color name="accent">#FFA000</color>
+    <color name="accent_light">#FFD149</color>
+    <color name="accent_dark">#C67100</color>
+    
+    <!-- Category colors -->
+    <color name="vegetarian">#43A047</color>
+    <color name="non_vegetarian">#D32F2F</color>
+    <color name="vegan">#00897B</color>
+    <color name="dessert">#D81B60</color>
+    <color name="seafood">#0097A7</color>
+    <color name="breakfast">#FF8F00</color>
+    
+    <!-- Background colors -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+    
+    <!-- Other colors -->
+    <color name="divider">#EEEEEE</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="medium_gray">#9E9E9E</color>
+    <color name="dark_gray">#616161</color>
+    <color name="shimmer_color">#DDDDDD</color>
+</resources>
